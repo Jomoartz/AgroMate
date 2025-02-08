@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "nso",
-    "slug": "nso",
+    "name": "agroMate",
+    "slug": "agroMate",
     "version": "1.0.0",
     "jsEngine": "hermes",
     "orientation": "default",
@@ -20,7 +20,7 @@
         "foregroundImage": "./app/assets/splash.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.nso.app",
+      "package": "com.agromate.app",
       "permissions": ["INTERNET"]
     },
     "web": {
